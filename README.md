@@ -1,0 +1,1 @@
+Hospital Management System project aims to computerize and streamline hospital opera-tions by managing patient data, appointments, medical records, and other administrative tasks, offering a user-friendly and efficient alternative to manual processes. Here's a more detailed breakdown of what such a project entails:
